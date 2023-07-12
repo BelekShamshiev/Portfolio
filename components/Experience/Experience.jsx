@@ -79,7 +79,7 @@ const Experience = () => {
                 }}
           className={s.category_title}>
             <h4>It academy</h4>
-            <h3>Codifay</h3>
+            <h3>Codify</h3>
           </motion.div>
         </div>
       </div>
